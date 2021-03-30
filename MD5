@@ -1,0 +1,8 @@
+fe2db876ae4c27a3c88f89682af59eeb *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+100c50c8937d3e1e6c779a402c1e7266 *R/sportscausal.R
+3774b322dad0425904bff8b295215ae4 *build/partial.rdb
+9901ef14ba67ed266e110f14c288009c *data/ad_cost.rda
+4c320d164dc51af4a5a1fe2fde95d162 *man/SPORTSCausal-package.Rd
+f0089edac014afddf7efe1216fdea21b *man/ad_cost.Rd
+c79487701a1a1f13c49f9782376ac4e6 *man/sportscausal.Rd
